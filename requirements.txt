@@ -1,0 +1,5 @@
+discord
+coloredlogs
+chatterbot
+discord_webhook
+filetype
