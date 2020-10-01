@@ -42,6 +42,4 @@ To make Vera a more successful shitposter we added support for vera to randomly 
 
 # Support us
 
-Currently we are not accepting donations but we would love if you could come hang out in our discord server.
-
-<iframe src="https://discordapp.com/widget?id=692335543622565929&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Currently we are not accepting donations but we would love if you could come hang out in [our Discord server](https://discord.com/invite/AJkQAUm).
