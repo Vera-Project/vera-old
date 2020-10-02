@@ -32,7 +32,7 @@ These can all be installed with `pip install -r requirements.txt`
 
 Vera will create a `.db` file on first boot named `database.db`, This is where Veras AI model is stored.
 
-An existing database can be used just by copying it to the Vera directory and making sure it is called `vera_logs.db`.
+An existing database can be used just by copying it to the Vera directory and making sure it is called `database.db`.
 
 Our pre-trained model is available on [our discord server.](https://discord.gg/jeXnXqH)
 
